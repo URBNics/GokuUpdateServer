@@ -1,3 +1,6 @@
+## Goku Mod 2.8
+- Casual suit added over Monster hunter outfits (felyne is comeplete, rathalos will have a rework.) Redone base and saiyan suit. (Old base outfit over SA2 shoes.)
+
 ## Goku Mod 2.5
 - Yardrat suit added over x-mas outfit and various bug fixes
 
