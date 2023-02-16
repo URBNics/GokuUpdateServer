@@ -1,3 +1,6 @@
+## DBZ Skin Pack
+- Initial release of the mod outside of the beta releases. (Rathalos is now displaying correctly and added Turles over Korone.)
+
 ## Goku Mod 2.8
 - Casual suit added over Monster hunter outfits (felyne is comeplete, rathalos will have a rework.) Redone base and saiyan suit. (Old base outfit over SA2 shoes.)
 
